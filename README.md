@@ -1,4 +1,6 @@
 # Snake in 100 programming languages
+
+[![Join the chat at https://gitter.im/snake_in_100_languages/Lobby](https://badges.gitter.im/snake_in_100_languages/Lobby.svg)](https://gitter.im/snake_in_100_languages/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The goal is to produce implementations of the classic Snake game in 100 different programming languages
 
 **Minimal Criteria for completed Snake implementation:**
